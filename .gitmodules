@@ -1,0 +1,6 @@
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/nathantebbs/hw3
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/nathantebbs/hw4
